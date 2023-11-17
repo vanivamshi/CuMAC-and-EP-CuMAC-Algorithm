@@ -1,1 +1,1 @@
-# CuMAC
+# EP-CuMAC
